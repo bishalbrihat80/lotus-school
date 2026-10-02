@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Student Achievement",
+    "description": "Add verified student achievements, awards and participation records here."
+  },
+  {
+    "title": "Academic Achievement",
+    "description": "Add school-level academic results and recognitions here."
+  },
+  {
+    "title": "Sports and Activities",
+    "description": "Add sports, cultural and extracurricular achievements here."
+  }
+]
